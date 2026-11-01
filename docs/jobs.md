@@ -10,8 +10,8 @@
 | Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, STR. TĂIETURA TURCULUI, NR.47, ÎN INCINTA CENTRULUI INTEGRAT DE BUSINESS NOVIS PLAZA. CORP A. ETAJ 1 ȘI PARTER |
 | Website | [https://www.perficient.com](https://www.perficient.com) |
 | Careers | [https://careers.perficient.com/en/sites/CX_1/jobs](https://careers.perficient.com/en/sites/CX_1/jobs) |
-| Last Scraped | 2026-10-31 |
+| Last Scraped | 2026-11-01 |
 
 ## Current Job Listings (0)
 
-_Generated: 2026-10-31T11:56:55.638Z_
+_Generated: 2026-11-01T12:56:29.526Z_
